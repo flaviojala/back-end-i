@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Sx33jt3fapJYXGtyXdM8YaH5MYJ9fqeVDShdhvVhkO/RjygmwYJCOl3ynJ34VFvx8kok6plM5Ja3OssvT6GaCQ==",
   "success": true,
   "projectFilePath": "C:\\Jala\\backend-i\\Aula03\\Aula03\\Aula03.csproj",
+=======
+  "dgSpecHash": "mJ+St/aFAwG+fKazBdlAhNzT1MFma4/H1TdLVfPyZSdxrJDFLtoQiDjhX3oYr9qqcYPTk/ArCzxHShCfO3XsgA==",
+  "success": true,
+  "projectFilePath": "C:\\Jala\\Aula03\\Aula03\\Aula03.csproj",
+>>>>>>> 30e0b2fd275b1ac54ab836c9cb6795cadaeb9471
   "expectedPackageFiles": [],
   "logs": []
 }

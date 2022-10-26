@@ -10,7 +10,10 @@ namespace Aula03
     {
         public Manager(int age, string name) : base(age, name)
         {
+<<<<<<< HEAD
 
+=======
+>>>>>>> 30e0b2fd275b1ac54ab836c9cb6795cadaeb9471
         }
 
         public int MyProperty { get; set; }
@@ -24,5 +27,13 @@ namespace Aula03
         {
             return $"Nome: {Name}";
         }
+<<<<<<< HEAD
+=======
+
+        public string GetString()
+        {
+            return "String Getted";
+        }
+>>>>>>> 30e0b2fd275b1ac54ab836c9cb6795cadaeb9471
     }
 }
