@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HomeWork": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

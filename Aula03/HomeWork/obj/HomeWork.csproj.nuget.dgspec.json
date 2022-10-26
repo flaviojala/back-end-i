@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Jala\\Aula03\\HomeWork\\HomeWork.csproj": {}
+    "C:\\Jala\\backend-i\\Aula03\\HomeWork\\HomeWork.csproj": {}
   },
   "projects": {
-    "C:\\Jala\\Aula03\\HomeWork\\HomeWork.csproj": {
+    "C:\\Jala\\backend-i\\Aula03\\HomeWork\\HomeWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jala\\Aula03\\HomeWork\\HomeWork.csproj",
+        "projectUniqueName": "C:\\Jala\\backend-i\\Aula03\\HomeWork\\HomeWork.csproj",
         "projectName": "HomeWork",
-        "projectPath": "C:\\Jala\\Aula03\\HomeWork\\HomeWork.csproj",
-        "packagesPath": "C:\\Users\\flaviomalto\\.nuget\\packages\\",
-        "outputPath": "C:\\Jala\\Aula03\\HomeWork\\obj\\",
+        "projectPath": "C:\\Jala\\backend-i\\Aula03\\HomeWork\\HomeWork.csproj",
+        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+        "outputPath": "C:\\Jala\\backend-i\\Aula03\\HomeWork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\flaviomalto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,6 +44,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

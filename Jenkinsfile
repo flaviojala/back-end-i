@@ -4,6 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
+                sh 'docker run flaviomalto/dockerhub/homework:latest'
                 echo 'Building..'
             }
         }
