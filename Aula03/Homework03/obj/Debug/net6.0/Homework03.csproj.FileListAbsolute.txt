@@ -1,0 +1,15 @@
+C:\Jala\backend-i\Aula03\Homework03\obj\Debug\net6.0\Homework03.csproj.AssemblyReference.cache
+C:\Jala\backend-i\Aula03\Homework03\obj\Debug\net6.0\Homework03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jala\backend-i\Aula03\Homework03\obj\Debug\net6.0\Homework03.AssemblyInfoInputs.cache
+C:\Jala\backend-i\Aula03\Homework03\obj\Debug\net6.0\Homework03.AssemblyInfo.cs
+C:\Jala\backend-i\Aula03\Homework03\obj\Debug\net6.0\Homework03.csproj.CoreCompileInputs.cache
+C:\Jala\backend-i\Aula03\Homework03\bin\Debug\net6.0\Homework03.exe
+C:\Jala\backend-i\Aula03\Homework03\bin\Debug\net6.0\Homework03.deps.json
+C:\Jala\backend-i\Aula03\Homework03\bin\Debug\net6.0\Homework03.runtimeconfig.json
+C:\Jala\backend-i\Aula03\Homework03\bin\Debug\net6.0\Homework03.dll
+C:\Jala\backend-i\Aula03\Homework03\bin\Debug\net6.0\Homework03.pdb
+C:\Jala\backend-i\Aula03\Homework03\obj\Debug\net6.0\Homework03.dll
+C:\Jala\backend-i\Aula03\Homework03\obj\Debug\net6.0\refint\Homework03.dll
+C:\Jala\backend-i\Aula03\Homework03\obj\Debug\net6.0\Homework03.pdb
+C:\Jala\backend-i\Aula03\Homework03\obj\Debug\net6.0\Homework03.genruntimeconfig.cache
+C:\Jala\backend-i\Aula03\Homework03\obj\Debug\net6.0\ref\Homework03.dll
