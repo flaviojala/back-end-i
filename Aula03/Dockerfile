@@ -5,7 +5,7 @@ WORKDIR /app
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
-COPY ["Aula03/HomeWork/HomeWork.csproj", "HomeWork/"]
+COPY ["HomeWork/HomeWork.csproj", "HomeWork/"]
 RUN dotnet restore "HomeWork/HomeWork.csproj"
 COPY . .
 WORKDIR "/src/HomeWork"
